@@ -1,7 +1,6 @@
 endpoints-skeleton
 
-#**[CLOUD LINK][7]**#
-
+**[CLOUD LINK][7]**
 ==================
 
 A skeleton application for Google Cloud Endpoints in Java.
