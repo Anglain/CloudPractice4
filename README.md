@@ -1,6 +1,6 @@
 endpoints-skeleton
 
-##[CLOUD LINK][7]
+#**[CLOUD LINK][7]**#
 
 ==================
 
